@@ -3,7 +3,7 @@
 #### Codewars
 codewars2.txt contains the URL and solutions to two code wars problems done in Javascript, the second on with no python.
 
-The JS file contains the answers to the following problems:
+The JS file contains the answers to the following problems:<br>
 //==========Exercise #1 ===========//
 /*
 Write a function that parses through the below object and displays all of their
