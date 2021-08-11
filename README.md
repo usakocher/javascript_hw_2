@@ -4,7 +4,7 @@
 codewars2.txt contains the URL and solutions to two code wars problems done in Javascript, the second on with no python.
 
 The JS file contains the answers to the following problems:<br>
-//==========Exercise #1 ===========//
+//==========Exercise #1 ===========//<br>
 /*
 Write a function that parses through the below object and displays all of their
 favorite food dishes as shown:
@@ -25,7 +25,7 @@ let person3 = {
 }
 
 
-//=======Exercise #2=========//
+//=======Exercise #2=========//<br>
 /*
 Write an object prototype or class for a Person that has a name and age, has a
 printInfo method, and also has a method that 
